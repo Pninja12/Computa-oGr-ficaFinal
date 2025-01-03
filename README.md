@@ -29,6 +29,7 @@ Para mexer o jogador basta usar o WASD para mosver para a frente, lado direito, 
 ### Links:
 #### Assets:
 [primeira escolha](https://assetstore.unity.com/packages/3d/environments/sci-fi/free-sci-fi-office-pack-195067#content)(que não foi utilizada)
+
 [segunda escolha](https://www.turbosquid.com/3d-models/3d-interior-model-2129438)(que foi utilizada)
         
 #### Videos:
@@ -37,6 +38,7 @@ Para mexer o jogador basta usar o WASD para mosver para a frente, lado direito, 
 
 ##### Tutoriais:
 [Video a explicar como implementar o Post Processing Volume](https://www.youtube.com/watch?v=nbxiqHCsYFg)
+
 [Video a explicar onde no packet manager é que pesquiso](https://www.youtube.com/watch?v=wS5c14TmO5I)
 
 [O tutorial principal](https://www.youtube.com/watch?v=F8aJb0X3-rs)
